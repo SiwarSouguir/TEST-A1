@@ -1,0 +1,37 @@
+.btn{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    margin-bottom: 3.7%;
+
+}
+
+.text-contact{
+    color: white !important; 
+    margin-top: 3%;
+    margin-left: 4%;
+}
+.text-general{
+    color: blue;
+    margin-top: 3%;
+    margin-left: 4%;
+
+}
+input , select, textarea{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    background-color: blue;
+
+}
+.lien{
+    color: white;
+}
+.bgcontact{
+    background-color: blue;
+}
+.form1{
+    background-color: blue;
+    color: white !important;
+}
+
+    
